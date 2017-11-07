@@ -1,90 +1,178 @@
 element-style {}
 
-html {display: block;}
+html, body, {height: 100%}
 
-head {display: none;}
+style {display: none;}
 
-link {display: none;}
+body {font-family: "Helvetica", sans-serif;}
 
-body {
-	font-family: Verdana, sans-serif;
+html, body, {height: 100%}
+
+menu, nav, section, summary {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+ }
+
+footer, header, menu, nav, section {display: block;}
+
+body {line-height: 1;}
+
+h1,
+h2,
+h3 {font-weight: bold;}
+
+.hero {
+	background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
 	text-align: center;
-	background-color: black;
 	color: white;
  }
 
-h1 {font-size: 50px}
+.hero h1 {font-size: 70px;}
+
+.btn-nav {
+	font-size: 18px;
+	color: white;
+ }
+
+.supporting {text-align: center;}
+
+.supporting h2 {font-size: 32px;}
+
+.supporting h3 {font-size: 23px;}
+
+.supporting-item p {font-size: 14px;}
+
+.hero h2 {font-size: 23px;}
+
+.footer {
+	background-color: dimgray;
+	font-size: 11px;
+	color: white;
+ }
+
+html, body, div, span, applet, object, h1, h2, h3, p, footer, header, nav, {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+ }
+
+body {
+	https: //external-production.codecademy.com/assets/secure/index-e15cd898fa5906b22c02b7fc4cf8e509.html;
+	line-height: 1;
+ }
+
+body {
+	display: block;
+	margin: 8px;
+ }
+
+.btn-nav {
+	font-size: 18px;
+	color: white;
+ }
+
+a {
+	cursor: auto;
+	text-decoration: underline;
+	text-decoration-line: underline;
+	text-decoration-style: initial;
+	text-decoration-color: initial:
+ }
+
+.hero {
+	background-image:
+	https: //s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png;
+	text-align: center;
+ }
 
 h1 {
 	display: block;
 	margin-before: 0.67em;
-	margin-after: .67em;
-	margin-start: .0px;
-	margin-end: .0px;
-	font-weight: bold;
+	margin-after: 0.67em;
+	margin-start: 0px
+	margin-end: 0px
  }
 
+.hero h1 {font-size: 70px;}
+
+h1, h2, h3 {font-weight: bold;}
+
 p {
-	color: gray;
-	font-size: 21px;
+	display: block;
+	margin-before: 1em;
+	margin-after: 1em;
+	margin-start: 0px
+	margin-end: 0px
+ }
+
+.hero {
+	background-image:
+	https: //s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png;
+	text-align: center;
+	color: white;
+ }
+
+div {display: block;}
+
+.support-item p {font-size: 14px;}
+
+.btn-nav {
+	font-size: 18px;
+	color: white;
+ }
+
+a {
+	cursor: auto;
+	text-decoration: underline;
+	text-decoration-line: underline;
+ }
+
+.footer {background-color: dimgray;}
+
+.footer {
+	background-color: dimgray;
+	font-size: 11px;
+	color: white;
+	text-align: left;
+ }
+
+body {
+	display: block;
+	margin: 8px;
  }
 
 p {
 	display: block;
 	margin-before: 1em;
 	margin-after: 1em;
-	margin-start: .0px;
-	margin-end: .0px;
- }
-
-.cta {
-	color: aquamarine;
-	font-size: 16px;
- }
-
- a {
-	cursor: auto;
-	text-decoration: underline;
-	text-decoration: underline;
-	text-decoration-style: initial;
-	text-decoration-style: initial;
  }
 
 p {
-	color: gray;
-	font-size: 21px;
+	margin-start: 0px;
+	margin-end: 0px;
  }
 
-video {object-fit: contain;}
-
-h2 {font-size: 42px;}
-
-h2 {
-	display: block;
-	margin-before: 0.83em;
-	margin-after: .83em;
-	margin-start: .0px;
-	margin-end: .0px;
-	font-weight: bold;
- }
-
-p {
-	color: gray;
-	font-size: 21px;
- }
-
-.footer {text-align: right;}
+body {line-height: 1;}
 
 div {display: block;}
 
-script {display: none;}
-
-html {display: block;}
-
-body {
-	font-family: Verdana, sans-serif;
-	text-align: center;
-	background-color: black;
+.btn-nav {
+	font-size: 18px;
 	color: white;
+ }
+
+a {
+	cursor: auto;
+	text-decoration: underline;
+	text-decoration-line: underline;
+	text-decoration-style: initial;
+	text-decoration-color: initial;
  }
 
