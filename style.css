@@ -129,7 +129,7 @@ div {display: block;}
  }
 
 a:-webkit-any-link {
-	curer: auto;
+	cursor: auto;
 	text-decoration: underline;
 	text-decoration-line: underline;
  }
